@@ -18,11 +18,11 @@ Key Insights and Features
 
 The most popular genres on Netflix include:
 
-    International Movies (2,624 titles)
-    Dramas (1,600 titles)
-    Comedies (1,210 titles)
-    Action & Adventure (859 titles)
-    Documentaries (829 titles)
+    International Movies 
+    Dramas 
+    Comedies 
+    Action & Adventure 
+    Documentaries 
 
 3. Content Rating Distribution
 
